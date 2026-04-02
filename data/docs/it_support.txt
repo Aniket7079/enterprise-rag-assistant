@@ -1,0 +1,27 @@
+IT Support Handbook
+
+1. Common issues
+- Laptop not starting
+- VPN connection failure
+- Password reset
+- Email synchronization issues
+- Access denied to internal tools
+
+2. Priority levels
+- P1: critical outage affecting many users
+- P2: major issue affecting a team or key workflow
+- P3: individual issue with workaround available
+
+3. How to raise a ticket
+- Use the service desk portal.
+- Describe the issue clearly.
+- Include screenshots if possible.
+- Mention device model, operating system, and time of failure.
+
+4. Password reset
+- Use the self-service password reset page first.
+- If locked out, contact IT support and verify identity.
+
+5. Hardware replacement
+- Hardware repair or replacement requires manager approval for non-standard devices.
+- Warranty-covered devices follow the vendor process.

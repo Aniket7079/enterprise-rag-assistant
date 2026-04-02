@@ -1,0 +1,27 @@
+Expense Reimbursement Policy
+
+1. Eligible expenses
+- Local travel for work
+- Client meals within policy limits
+- Office supplies purchased with approval
+- Internet reimbursement for remote work, if eligible
+
+2. Submission rules
+- Submit claims within 30 days of the expense date.
+- Attach receipts for any expense above the receipt threshold.
+- Add the business justification and project code.
+
+3. Approval path
+- The manager reviews first.
+- Finance performs policy validation.
+- High-value claims may need additional approval.
+
+4. Reimbursement timeline
+- Approved claims are usually reimbursed in the next payment cycle.
+- Incorrect or missing documents can delay settlement.
+
+5. Common rejection reasons
+- Missing receipt
+- Duplicate claim
+- Incorrect cost center
+- Unsupported personal expense

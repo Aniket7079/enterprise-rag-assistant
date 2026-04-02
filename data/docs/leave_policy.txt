@@ -1,0 +1,26 @@
+Leave Policy Summary
+
+1. Leave types
+- Earned leave
+- Sick leave
+- Casual leave
+- Bereavement leave
+- Unpaid leave
+
+2. Leave approval
+- Short leave: manager approval required.
+- Leave longer than 2 working days: manager and HR approval required.
+- Sick leave above 3 days may require a medical certificate.
+
+3. Carry forward
+- Unused earned leave may be carried forward up to the annual cap defined by HR each year.
+- Leave encashment is governed by the employment contract and local labor rules.
+
+4. Request workflow
+- Apply in the leave portal at least 3 working days in advance for planned leave.
+- Mark urgent or emergency leave as soon as possible.
+- Approved leave is visible in the team calendar.
+
+5. Notes
+- Public holidays do not count as leave.
+- Overlapping leave requests are resolved by the reporting manager.

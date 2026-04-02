@@ -1,0 +1,28 @@
+Enterprise Onboarding Guide
+
+1. First-day checklist
+- Complete identity verification and HR forms.
+- Collect laptop, access card, and workstation details from IT.
+- Join the welcome call with the hiring manager and buddy.
+- Review the code of conduct and security policy.
+
+2. Required documents
+- Government ID
+- Address proof
+- Bank details for payroll
+- Signed offer letter
+
+3. Access request process
+Employees should raise access requests through the service desk. Typical approvals are needed for:
+- email account
+- internal knowledge base
+- finance portal
+- project repositories
+
+4. Probation review
+- Probation lasts 90 days unless specified otherwise.
+- Managers schedule a review at the end of the probation period.
+- Feedback should be documented in the HR portal.
+
+5. Useful tip
+New joiners should complete mandatory training within the first two weeks.
