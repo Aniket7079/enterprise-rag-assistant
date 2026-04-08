@@ -2,7 +2,7 @@
   
 A mid-level end-to-end RAG project for an internal enterprise knowledge assistant.
 
-## What this project shows
+## What this project shows 
 
 - **RAG pipeline**: document loading → chunking → embeddings → vector search → LLM answer generation
 - **LangGraph orchestration**: query routing, retrieval node, answer node, and optional direct-answer branch
