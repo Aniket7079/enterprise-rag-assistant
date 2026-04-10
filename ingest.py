@@ -1,7 +1,7 @@
 from pathlib import Path
 
 from src.config import CHROMA_DIR, COLLECTION_NAME 
-from src.embeddings import get_embeddings 
+from src.embeddings import get_embeddings  
 from src.loader import load_documents
 from src.retriever import build_vectorstore
 from dotenv import load_dotenv
