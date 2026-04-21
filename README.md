@@ -1,6 +1,6 @@
 # Enterprise Internal Document Assistant
   
-A mid-level end-to-end RAG project for an internal enterprise knowledge assistant. 
+A mid-level end-to-end RAG project for an internal enterprise knowledge assistant.
 
 ## What this project shows 
 
