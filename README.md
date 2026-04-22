@@ -20,7 +20,7 @@ A mid-level end-to-end RAG project for an internal enterprise knowledge assistan
 - OpenAI or Ollama as the LLM provider
 - Streamlit for the UI
 
-## Project strucTURE
+## Project structure
 
 ```text
 enterprise-rag-assistant/
