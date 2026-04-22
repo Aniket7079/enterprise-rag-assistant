@@ -8,7 +8,7 @@ A mid-level end-to-end RAG project for an internal enterprise knowledge assistan
 - **LangGraph orchestration**: query routing, retrieval node, answer node, and optional direct-answer branch
 - **LangChain integrations**: chat model, retriever, prompt templates, and document abstractions
 - **Vector database**: Chroma persistence for local semantic search
-- **Resume value**: realistic enterprise use case with citations and a clean, demo-friendly ui
+- **Resume value**: realistic enterprise use case with citations and a clean, demo-friendly UI
 
 ## Recommended stack
 
