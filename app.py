@@ -7,7 +7,7 @@ from src.loader import load_documents
 from src.retriever import ensure_vectorstore
 
 
-load_()
+load_dotenv()
 
 st.set_page_config(
     page_title="Enterprise Internal Document Assistant",
