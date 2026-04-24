@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from src.config import DEFAULT_THREAD_ID
 from src.graph import build_rag_app
 from src.loader import load_documents 
-from src.retriever import ensure_vectorstor
+from src.retriever import ensure_
 
 
 load_dotenv()
