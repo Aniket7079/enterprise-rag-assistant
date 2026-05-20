@@ -12,7 +12,7 @@ A mid-level end-to-end RAG project for an internal enterprise knowledge assistan
 
 ## Recommended stack
 
-- Python
+- Python 
 - LangChain
 - LangGraph
 - Chroma
